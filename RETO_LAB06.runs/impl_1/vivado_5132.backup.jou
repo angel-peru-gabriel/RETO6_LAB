@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Tue Nov 18 20:44:23 2025
+# Process ID: 5132
+# Current directory: C:/Users/Aquino/Downloads/UTEC/CD_vivado/RETO_LAB06/RETO_LAB06.runs/impl_1
+# Command line: vivado.exe -log top_global.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_global.tcl -notrace
+# Log file: C:/Users/Aquino/Downloads/UTEC/CD_vivado/RETO_LAB06/RETO_LAB06.runs/impl_1/top_global.vdi
+# Journal file: C:/Users/Aquino/Downloads/UTEC/CD_vivado/RETO_LAB06/RETO_LAB06.runs/impl_1\vivado.jou
+# Running On: LAPTOP-J9NS4159, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 16473 MB
+#-----------------------------------------------------------
+source top_global.tcl -notrace
